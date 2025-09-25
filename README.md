@@ -32,9 +32,7 @@ The dataset used is sourced from [Kaggle: Instagram Data](https://www.kaggle.com
 - **Eye Color:** Reviewers' eye color, if provided.
 
 ## 💡 What is Regression and How Does it Work? 
-Regression analysis predicts a dependent variable (e.g., price) based on independent variables (e.g., ratings, reviews). It identifies trends and quantifies relationships between variables.
-
-Coefficients(B) are estimated using Least Squares, which minimizes the sum of squared errors.
+Regression analysis predicts a dependent variable (e.g., price) based on independent variables (e.g., ratings, reviews). It identifies trends and quantifies relationships between variables. Coefficients(B) are estimated using Least Squares, which minimizes the sum of squared errors.
 
 ### Assumptions for Linear Regression:
 - Linearity between predictors and target.
