@@ -1,5 +1,5 @@
 
-# Sephora Product Price Predictions 
+# A Regression Analysis of Sephora Skincare Line
 
 ## 📜 Project Overview
 The goal of this project is to predict skincare product prices using a regression model trained on a dataset of Sephora products and reviews. By analyzing features such as brand, ratings, number of reviews, and product type, I aim to uncover insights into the factors driving product pricing.
